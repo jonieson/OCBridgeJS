@@ -40,7 +40,7 @@
     NSString* path = [[NSBundle mainBundle] pathForResource:@"test" ofType:@"html"];
     NSURL* url = [NSURL fileURLWithPath:path];
     NSURLRequest* request = [NSURLRequest requestWithURL:url] ;
-//    NSString *path=[[NSBundle mainBundle]pathForResource:@"test" ofType:@"html"];
+    //    NSString *path=[[NSBundle mainBundle]pathForResource:@"test" ofType:@"html"];
     [_wkwebView loadRequest:request];
     
     [self.view addSubview:_wkwebView];

@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  OCBridgeJS
+//  BridgeJS
 //
-//  Created by ydz on 16/8/17.
+//  Created by ydz on 16/12/21.
 //  Copyright © 2016年 jonie. All rights reserved.
 //
 
